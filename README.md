@@ -30,7 +30,7 @@ My skills also include soft skills such as communication skills, estimation skil
 
 ## Contact
 Please email to junaidanwar10@gmail.com
-You can also find me on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]][https://www.linkedin.com/in/chaudhryjunaid].
+You can also find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/chaudhryjunaid).
 
 ## Hobbies
 When not developing software or learning about computer programming, I love to learn human languages including French and Arabic. I also love to spend time outdoors and with my family. I also spend time learning new computer languages and reading programming books to sharpen my skills.
