@@ -12,6 +12,20 @@ My primary experience is in JavaScript development including Node.js backend dev
 My skills also include soft skills such as communication skills, estimation skills, and other technical skills like testing my own code and writing unit tests for my code.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU%20Bashx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-Express-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-Sequelize-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Lodash-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Ramda-informational?style=flat&logoColor=white&color=2bbc8a)
+
 
 ## Contact
 Please email to junaidanwar10@gmail.com
