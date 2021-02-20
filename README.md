@@ -30,6 +30,7 @@ My skills also include soft skills such as communication skills, estimation skil
 
 ## Contact
 Please email to junaidanwar10@gmail.com
+
 You can also find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/chaudhryjunaid).
 
 ## Hobbies
