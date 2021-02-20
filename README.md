@@ -16,4 +16,5 @@ Please email to junaidanwar10@gmail.com
 ## Hobbies
 When not developing software or learning about computer programming, I love to learn human languages including French and Arabic. I also love to spend time outdoors and with my family. I also spend time learning new computer languages and reading programming books to sharpen my skills.
 
-
+## Github stats
+[![Chaudhry Junaid's github stats](https://github-readme-stats.vercel.app/api?username=chaudhryjunaid)](https://github.com/chaudhryjunaid)
