@@ -11,6 +11,8 @@ My primary experience is in JavaScript development including Node.js backend dev
 
 My skills also include soft skills such as communication skills, estimation skills, and other technical skills like testing my own code and writing unit tests for my code.
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+
 ## Contact
 Please email to junaidanwar10@gmail.com
 
