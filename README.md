@@ -21,10 +21,11 @@ My skills also include soft skills such as communication skills, estimation skil
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frameworks-Express-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frameworks-Sequelize-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Libraries-Lodash-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Libraries-Ramda-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-Sequelize-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Lodash-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Libraries-Ramda-informational?style=flat&color=2bbc8a)
 
 
 ## Contact
