@@ -21,4 +21,4 @@ When not developing software or learning about computer programming, I love to l
 C\C++, Java, Python, LISP, Golang, Rust
 
 ## Github stats
-[![Chaudhry Junaid's github stats](https://github-readme-stats.vercel.app/api?username=chaudhryjunaid)](https://github.com/chaudhryjunaid)
+![Chaudhry Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudhryjunaid&count_private=true&show_icons=true)
