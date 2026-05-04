@@ -1,13 +1,12 @@
 # chaudhryjunaid.github.io
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ## Introduction
 Hi there!
 
-My name is Chaudhry Junaid Anwar and I work as a Principal Software Engineer at Bboxx Ltd. Welcome to my personal page hosted using GitHub Pages.
+My name is Chaudhry Junaid Anwar and I am currently working as a Software Architect at ProductBox. Welcome to my personal page hosted using GitHub Pages.
 
 ## Experience
-I have a decade of experience in JavaScript development including Node.js backend development and Reactjs frontend development with experience in object-oriented and functional styles of development. More recently, I have been working in Python backend development using AWS Lambda, SQS, Flask, Odoo and Docker.
+I have 18 years of experience in various software development roles including Node.js backend development and Reactjs frontend development with experience in object-oriented and functional styles of development. Other areas of expertise include Docker, Linux, Git, Bash, AI prompting, AWS and Google Cloud.
 
 ## Contact
 Please email to junaidanwar10@gmail.com
