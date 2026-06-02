@@ -1,15 +1,11 @@
 # chaudhryjunaid.github.io
 
-## Introduction
-Hi there!
+Personal GitHub Pages site for Chaudhry Junaid Anwar.
 
-My name is Chaudhry Junaid Anwar and I am currently working as a Software Architect at ProductBox. Welcome to my personal page hosted using GitHub Pages.
+The site is a static professional portfolio built from the latest CV. It introduces Junaid's background as a Senior Software Architect and Principal Software Engineer, covering backend architecture, SaaS, healthcare platforms, cloud systems, event-driven architecture, AI-assisted software delivery, professional experience, skills, education, and contact details.
 
-## Experience
-I have 18 years of experience in various software development roles including Node.js backend development and Reactjs frontend development with experience in object-oriented and functional styles of development. Other areas of expertise include Docker, Linux, Git, Bash, AI prompting, AWS and Google Cloud.
+## Files
 
-## Contact
-You can find me on LinkedIn[![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](www.linkedin.com/in/chaudhryjunaid).
-
-## Hobbies
-When not developing software, I am usually watching or reading news, playing with my daughter, or out on a walk.
+- `index.html` - page content and structure
+- `styles.css` - responsive styling
+- `assets/architecture-hero.png` - generated hero visual for the portfolio
