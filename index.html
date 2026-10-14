@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Junaid Anwar</title>
+  <meta name="description" content="Chaudhry Junaid Anwar: a human and a tinkerer in Rawalpindi, Pakistan. Software architect by day, homelab and LLM experimenter the rest of the time.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23b4582c'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='40' text-anchor='middle' fill='%23fff'%3EJ%3C/text%3E%3C/svg%3E">
+  <style>
+    :root {
+      --bg: #faf8f3;
+      --fg: #221f1b;
+      --muted: #6b645b;
+      --accent: #b4582c;
+      --rule: #e4ddd2;
+      --card: #f1ece3;
+      color-scheme: light dark;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #161411;
+        --fg: #ebe6dd;
+        --muted: #a39b8f;
+        --accent: #e4a265;
+        --rule: #2d2924;
+        --card: #1f1c18;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font: 17px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .wrap {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 4rem 1.25rem 3rem;
+    }
+
+    h1, h2 {
+      font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+      font-weight: 400;
+      line-height: 1.15;
+      letter-spacing: -0.01em;
+    }
+    h1 { font-size: clamp(2.25rem, 6vw, 3.25rem); margin: 0.25rem 0 1rem; }
+    h2 { font-size: 1.5rem; margin: 0 0 0.75rem; }
+
+    .eyebrow {
+      margin: 0;
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--muted);
+    }
+    .lede { font-size: 1.2rem; color: var(--muted); margin: 0; }
+
+    section {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--rule);
+    }
+    p { margin: 0 0 1rem; }
+    p:last-child { margin-bottom: 0; }
+
+    a {
+      color: var(--accent);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+    a:hover { text-decoration-thickness: 2px; }
+
+    .list {
+      padding: 0;
+      margin: 0 0 1rem;
+      list-style: none;
+    }
+    .list li {
+      padding: 0.85rem 1rem;
+      margin-bottom: 0.6rem;
+      background: var(--card);
+      border-radius: 10px;
+    }
+    .list li strong { display: block; font-weight: 600; }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--rule);
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="eyebrow">Rawalpindi, Pakistan</p>
+      <h1>Hi, I'm Junaid.</h1>
+      <p class="lede">
+        Human first, tinkerer second, software architect by trade.
+        I've been writing software since 2007 and taking things apart for longer than that.
+      </p>
+    </header>
+
+    <main>
+      <section id="human">
+        <h2>As a human</h2>
+        <p>
+          I live in Rawalpindi. I drink more tea than is probably sensible, go for long walks
+          when I need to think, and follow the news more closely than is good for me.
+          Most of the rest of my time goes to family.
+        </p>
+        <p>
+          I'm curious by default. If something interests me, I want to know how it works,
+          and I'm happiest when I'm learning something new with my hands.
+        </p>
+      </section>
+
+      <section id="tinkerer">
+        <h2>As a tinkerer</h2>
+        <p>
+          I trained as an electrical engineer, which is a polite way of saying I've never
+          fully trusted a box I couldn't open. Over the years that instinct has turned into:
+        </p>
+        <ul class="list">
+          <li>
+            <strong>A homelab</strong>
+            A personal server I keep rebuilding, breaking, and fixing. Mostly to learn,
+            partly because it's fun.
+          </li>
+          <li>
+            <strong>LLM experiments</strong>
+            Working out where large language models genuinely help with everyday learning
+            and productivity, and where they just get in the way.
+          </li>
+          <li>
+            <strong>A trail of side quests</strong>
+            Embedded C on a real-time OS, mobile games in Unity, network traffic analysis
+            tools in C and C++, chat servers built on Socket.IO and Redis.
+          </li>
+        </ul>
+        <p>
+          Most of it never ships anywhere. That's fine. The point is the understanding.
+        </p>
+      </section>
+
+      <section id="work">
+        <h2>By day</h2>
+        <p>
+          I work as a software architect. I design and stabilise backend systems, mostly for
+          healthcare and SaaS products running on cloud infrastructure. The job is largely
+          about turning vague goals into things that survive contact with production, and
+          helping teams make better technical calls along the way.
+        </p>
+        <p>
+          If you want the full professional history, it's on
+          <a href="https://www.linkedin.com/in/chaudhryjunaid">LinkedIn</a>.
+        </p>
+      </section>
+
+      <section id="now">
+        <h2>Currently poking at</h2>
+        <ul class="list">
+          <li>Rebuilding the homelab. Again.</li>
+          <li>Using LLM tools inside a real engineering workflow, and keeping notes on what actually holds up.</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Find me on <a href="https://github.com/chaudhryjunaid">GitHub</a> and
+        <a href="https://www.linkedin.com/in/chaudhryjunaid">LinkedIn</a>.
+      </p>
+      <p>
+        This page is plain HTML and CSS with no build step. The source lives in
+        <a href="https://github.com/chaudhryjunaid/chaudhryjunaid.github.io">this repository</a>.
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
